@@ -1,16 +1,7 @@
-### Hi there 👋
+# Hi, I'm Zornitsa 👋
 
-<!--
-**zornicag/zornicag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manual QA Engineer with 13+ years of experience.
 
-Here are some ideas to get you started:
+Currently learning Java, Selenium, Spring and test automation.
 
-- 🔭 I’m currently working on, I am lookong for job as manual QA
-- 🌱 I’m currently learning Selenium Java in uDemy
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in QA Automation and Java development.
